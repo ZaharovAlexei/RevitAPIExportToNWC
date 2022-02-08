@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPIExportToNWC.dll"</Assembly>
+		<AddInId>B80BD2C8-0C28-457B-A4CE-210790827AC4</AddInId>
+		<FullClassName>RevitAPIExportToNWC.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Экспорт в NWC</Text>
+	</AddIn>
+</RevitAddIns>
